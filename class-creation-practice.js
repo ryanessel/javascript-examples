@@ -10,6 +10,6 @@ class Warrior{
     }
 
     yell(){
-            console.log()
+            console.log("You begin to get a sore throat")
         }
 }
